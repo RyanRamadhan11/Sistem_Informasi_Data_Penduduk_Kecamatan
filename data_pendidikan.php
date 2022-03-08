@@ -36,5 +36,5 @@ include'headerwarga.php';
 
     
 <?php
-include'footer.php';
+include'footer.html';
 ?>

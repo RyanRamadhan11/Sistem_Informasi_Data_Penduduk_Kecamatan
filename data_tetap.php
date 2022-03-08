@@ -113,4 +113,4 @@ error_reporting(0);
    
 
 
-<?php include'footer.php'; ?>
+<?php include'footer.html'; ?>

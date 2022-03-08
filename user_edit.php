@@ -57,5 +57,5 @@ $data  = mysqli_fetch_array($sqlku);
     </section>
     </div>
 <?php
-include'footer.php';
+include'footer.html';
 ?>

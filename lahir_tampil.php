@@ -77,4 +77,4 @@ error_reporting(0);
         </div>
  </section>
   </div>
-<?php include'footer.php'; ?>
+<?php include'footer.html';?>

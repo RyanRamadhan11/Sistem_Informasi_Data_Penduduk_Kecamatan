@@ -150,4 +150,4 @@ $data  = mysqli_fetch_array($sqlku);
 
     </section>
   </div>
-<?php include'footer.php'; ?>
+<?php include'footer.html'; ?>

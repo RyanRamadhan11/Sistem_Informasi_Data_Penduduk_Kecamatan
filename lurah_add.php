@@ -69,5 +69,5 @@ include'header.php';
  </section>
   </div>
 <?php
-include'footer.php';
+include'footer.html';
 ?>

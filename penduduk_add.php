@@ -201,6 +201,6 @@ include'header.php';
     </div>
 </section>
  </div>
-<?php include'footer.php'; ?>
+<?php include'footer.html'; ?>
 
 

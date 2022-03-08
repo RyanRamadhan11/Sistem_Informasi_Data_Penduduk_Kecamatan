@@ -72,5 +72,5 @@ include'header.php';
 
     
 <?php
-include'footer.html';
+include'footer.php';
 ?>

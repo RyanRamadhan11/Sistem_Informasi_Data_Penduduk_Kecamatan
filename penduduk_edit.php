@@ -202,6 +202,6 @@ $pekerjaan=$data['kode'];
     </div>
 </section>
  </div>
-<?php include'footer.html'; ?>
+<?php include'footer.php'; ?>
 
 

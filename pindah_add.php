@@ -95,5 +95,5 @@ include'header.php';
  </section>
   </div>
 <?php
-include'footer.html';
+include'footer.php';
 ?>

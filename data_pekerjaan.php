@@ -34,5 +34,5 @@ include'headerwarga.php';
  </section>
   </div>
 <?php
-include'footer.html';
+include'footer.php';
 ?>

@@ -31,7 +31,7 @@ include'valid.php';
 
   <style type="text/css">
     
-  .anic {
+    .anic {
   -webkit-animation: fade-in 0.27s linear infinite alternate;
   -moz-animation: fade-in 0.27s linear infinite alternate;
   animation: fade-in 0.27s linear infinite alternate;

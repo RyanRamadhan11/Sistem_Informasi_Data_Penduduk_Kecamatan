@@ -99,5 +99,5 @@ $data  = mysqli_fetch_array($sqlku);
     </section>
     </div>
 <?php
-include'footer.html';
+include'footer.php';
 ?>
